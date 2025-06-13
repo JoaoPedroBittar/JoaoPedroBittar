@@ -27,7 +27,7 @@ Também já trabalhei com **Excel avançado**, **dashboards em Power BI**, e est
 ## 🛠️ Tecnologias e ferramentas
 
 - **CRM:** Pipedrive, Apollo  
-- **Automação:** Notion, ActiveCampaign  
+- **Automação:** Notion, ActiveCampaign, Pipedrive, Bitrix24 
 - **Análise de dados:** Excel, Power BI  
 - **Programação:** Java (iniciante), JavaScript  
 - **Versionamento:** Git e GitHub
