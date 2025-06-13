@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o João Pedro
 
-<!--
-**JoaoPedroBittar/JoaoPedroBittar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduado em Administração de Empresas  
+💻 Cursando Sistemas de Informação (2º semestre)  
+🚀 Estagiário em Inteligência Comercial na **Bendito**, uma startup de força de vendas  
+📍 Florianópolis, SC – Brasil
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Sobre mim
+
+Atualmente atuo com **prospecção de leads**, **automação de processos comerciais** e **gestão de CRM (Pipedrive)**. Tenho experiência com ferramentas como **Apollo**, **Notion**, **ActiveCampaign** e **integrações entre CRMs**.  
+Também já trabalhei com **Excel avançado**, **dashboards em Power BI**, e estou me aprofundando em **desenvolvimento back-end** com foco em **JavaScript, Node.js e APIs REST**.
+
+---
+
+## 🧠 Estudando atualmente
+
+- Lógica de programação e algoritmos  
+- JavaScript (ES6+), Node.js  
+- APIs RESTful  
+- Git e GitHub  
+- SQL e bancos de dados relacionais
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+- **CRM:** Pipedrive, Apollo  
+- **Automação:** Notion, ActiveCampaign  
+- **Análise de dados:** Excel, Power BI  
+- **Programação:** Java (iniciante), JavaScript  
+- **Versionamento:** Git e GitHub
+
+---
+
+## 📫 Vamos nos conectar?
+
+- [LinkedIn](https://www.linkedin.com/in/joaopedrobittar/)  
+- Email: joaopedrofreitasbp@gmail.com
+
+---
+
+⭐ Obrigado por visitar meu perfil!  
+Sinta-se à vontade para ver meus repositórios e me acompanhar nessa jornada de transição para a área de tecnologia!
