@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o João Pedro
 
 🎓 Graduado em Administração de Empresas  
-💻 Cursando Sistemas de Informação (2º semestre)  
+💻 Cursando Sistemas de Informação (3º semestre)  
 🚀 Estagiário em Inteligência Comercial na **Bendito**, uma startup de força de vendas  
 📍 Florianópolis, SC – Brasil
 
