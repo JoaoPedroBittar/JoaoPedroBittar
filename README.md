@@ -2,7 +2,7 @@
 
 🎓 Graduado em Administração de Empresas  
 💻 Cursando Sistemas de Informação (3º semestre)  
-🚀 Estagiário em Inteligência Comercial na **Bendito**, uma startup de força de vendas  
+🚀 Estagiário em Inteligência Comercial na **Zaub Sales Technology**, uma startup de força de vendas  
 📍 Florianópolis, SC – Brasil
 
 ---
@@ -17,7 +17,7 @@ Também já trabalhei com **Excel avançado**, **dashboards em Power BI**, e est
 ## 🧠 Estudando atualmente
 
 - Lógica de programação e algoritmos  
-- JavaScript (ES6+), Node.js  
+- JavaScript, Node.js  
 - APIs RESTful  
 - Git e GitHub  
 - SQL e bancos de dados relacionais
@@ -36,8 +36,8 @@ Também já trabalhei com **Excel avançado**, **dashboards em Power BI**, e est
 
 ## 📫 Vamos nos conectar?
 
-- [LinkedIn](https://www.linkedin.com/in/joaopedrobittar/)  
-- Email: joaopedrofreitasbp@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-bittar-de-freitas/)  
+- Email: jpbittarf@hotmail.com
 
 ---
 
