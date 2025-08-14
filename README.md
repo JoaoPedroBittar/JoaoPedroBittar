@@ -2,7 +2,7 @@
 
 🎓 Graduado em Administração de Empresas  
 💻 Cursando Sistemas de Informação (4º semestre)  
-🚀 Estagiário de Inteligência Comercial na **Bendito**, startup de força de vendas  
+🚀 Estagiário de Inteligência Comercial na **Zaub Sales Technology**, startup de força de vendas  
 📍 Florianópolis, SC – Brasil  
 
 ---
