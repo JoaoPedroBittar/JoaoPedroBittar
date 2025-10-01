@@ -1,56 +1,67 @@
-# 👋 Olá! Eu sou o João Pedro
+![](https://komarev.com/ghpvc/?username=JoaoPedroBittar&color=006bed)
+
+# 👋 Olá! Eu sou João Pedro Bittar
 
 🎓 Graduado em Administração de Empresas  
 💻 Cursando Sistemas de Informação (4º semestre)  
-🚀 Estagiário de Inteligência Comercial na **Zaub Sales Technology**, startup de força de vendas  
+🚀 Estagiário de Inteligência Comercial na **Zaub Sales Technology**  
 📍 Florianópolis, SC – Brasil  
 
 ---
 
 ## 💡 Sobre mim
 
-Atualmente atuo com **gestão e manutenção de CRM (Pipedrive)**, **prospecção de leads** e **automação de processos comerciais**. Tenho experiência com ferramentas como **Apollo**, **Notion**, **ActiveCampaign**, além de integrar sistemas e CRMs para otimizar processos.  
+Sou apaixonado por tecnologia, dados e automação. Atualmente atuo com **CRM, prospecção de leads e integração de sistemas**, além de desenvolver **dashboards em Power BI** e projetos em **Python e Node.js**.  
 
-Também já desenvolvi **dashboards em Power BI**, projetos em **Python com SQLite e agentes de inteligência artificial**, e estou me aprofundando em **desenvolvimento back-end** com **JavaScript, Node.js e APIs REST**.  
-
-Meu objetivo é combinar conhecimentos técnicos e de negócio para apoiar equipes comerciais e evoluir na área de TI.  
-
----
-
-## 🧠 Estudando atualmente
-
-- Lógica de programação e algoritmos  
-- JavaScript e Node.js  
-- APIs RESTful  
-- Git e GitHub  
-- SQL e bancos de dados relacionais  
+Estou sempre em busca de novos desafios para combinar conhecimentos de negócio e TI, e evoluir como profissional.
 
 ---
 
 ## 🛠️ Tecnologias e ferramentas
 
-- **CRM e Automação:** Pipedrive, Apollo, Notion, ActiveCampaign, Bitrix24, Make  
-- **Análise de dados:** Excel avançado, Power BI  
-- **Programação:** Python, Java, JavaScript (Node.js)  
-- **Banco de dados:** MySQL (formação de 20h), SQLite  
-- **Versionamento:** Git e GitHub  
+**Linguagens & Frameworks**  
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=FFD43B)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3)
+
+**CRM & Automação**  
+
+![Pipedrive](https://img.shields.io/badge/-Pipedrive-333333?style=flat)
+![Apollo](https://img.shields.io/badge/-Apollo-333333?style=flat)
+![Notion](https://img.shields.io/badge/-Notion-333333?style=flat)
+![ActiveCampaign](https://img.shields.io/badge/-ActiveCampaign-333333?style=flat)
+![Bitrix24](https://img.shields.io/badge/-Bitrix24-333333?style=flat)
+
+**DevOps & Versionamento**  
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+
+**Análise de Dados**  
+
+![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=microsoft-excel)
+![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=power-bi)
 
 ---
 
 ## 💼 Experiência
 
-**Bendito – Estagiário de Inteligência Comercial (2024 – atualmente)**  
+**Zaub Sales Technology – Estagiário de Inteligência Comercial (2024 – atualmente)**  
 - Gestão e manutenção do CRM Pipedrive  
-- Criação de automações para processos comerciais  
-- Prospecção de leads no Apollo com foco em segmentos e personas ideais  
-- Suporte ao time de vendas com organização de pipeline e análise de dados  
-- Integração entre CRMs e ferramentas como Notion e ActiveCampaign  
-- Configuração de ambientes personalizados para leads no sistema e ERP (Omie, Bling, Tiny)  
+- Automação de processos comerciais  
+- Prospecção de leads no Apollo com segmentação  
+- Integração de sistemas e suporte ao time de vendas  
 
 **Classic Chef – Analista de BI (2022 – 2024)**  
-- Processos de ETL: extração, limpeza e tratamento de dados  
-- Criação de dashboards e relatórios de vendas  
-- Análise de informações obtidas para apoiar decisões estratégicas  
+- Processos de ETL e tratamento de dados  
+- Criação de dashboards estratégicos em Power BI  
+- Suporte à tomada de decisão baseada em dados  
 
 ---
 
@@ -76,9 +87,23 @@ Meu objetivo é combinar conhecimentos técnicos e de negócio para apoiar equip
 
 ---
 
+## 🖥️ Projetos no GitHub
+
+[![Meus Projetos](https://img.shields.io/badge/Meus%20Projetos-006bed?style=flat&logo=github)](https://github.com/JoaoPedroBittar)
+
+
+---
+
 ## 📫 Contato
 
-- WhatsApp: (48) 99850-2992  
-- Email: jpbittarf@hotmail.com  
-- [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-bittar-de-freitas/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-bittar-de-freitas/)  
+[![Email](https://img.shields.io/badge/-Email-FF0000?style=flat-square&logo=gmail&logoColor=white)](mailto:jpbittarf@hotmail.com)  
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5548998502992)
+
+---
+
+## 🖤 GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoPedroBittar&theme=dracula&show_icons=true&count_private=true)](https://github.com/JoaoPedroBittar)
+
 
