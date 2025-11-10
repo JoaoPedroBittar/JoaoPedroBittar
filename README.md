@@ -36,6 +36,8 @@ Estou sempre em busca de novos desafios para combinar conhecimentos de negócio 
 ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat)
 ![ActiveCampaign](https://img.shields.io/badge/-ActiveCampaign-333333?style=flat)
 ![Bitrix24](https://img.shields.io/badge/-Bitrix24-333333?style=flat)
+![n8n](https://img.shields.io/badge/-n8n-333333?style=flat)
+![Make](https://img.shields.io/badge/-Make-333333?style=flat)
 
 **DevOps & Versionamento**  
 
