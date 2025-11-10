@@ -11,44 +11,19 @@
 
 ## 💡 Sobre mim
 
-Sou apaixonado por tecnologia, dados e automação. Atualmente atuo com **CRM, prospecção de leads e integração de sistemas**, além de desenvolver **dashboards em Power BI** e projetos em **Python e Node.js**.  
-
-Estou sempre em busca de novos desafios para combinar conhecimentos de negócio e TI, e evoluir como profissional.
+#### Sou estudante de **Sistemas de Informação** com formação em **Administração Empresarial**. Minha paixão é usar a tecnologia para otimizar processos e construir pontes entre as áreas de negócio e o desenvolvimento.
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+### 🛠️ Minha Stack de Ferramentas
 
-**Linguagens & Frameworks**  
-
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=FFD43B)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3)
-
-**CRM & Automação**  
-
-![Pipedrive](https://img.shields.io/badge/-Pipedrive-333333?style=flat)
-![Apollo](https://img.shields.io/badge/-Apollo-333333?style=flat)
-![Notion](https://img.shields.io/badge/-Notion-333333?style=flat)
-![ActiveCampaign](https://img.shields.io/badge/-ActiveCampaign-333333?style=flat)
-![Bitrix24](https://img.shields.io/badge/-Bitrix24-333333?style=flat)
-![n8n](https://img.shields.io/badge/-n8n-333333?style=flat)
-![Make](https://img.shields.io/badge/-Make-333333?style=flat)
-
-**DevOps & Versionamento**  
-
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-
-**Análise de Dados**  
-
-![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=microsoft-excel)
-![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=power-bi)
+| Categoria | Ferramentas |
+| :--- | :--- |
+| **Linguagens & Frameworks** | `HTML`, `CSS`, `JavaScript`, `Java`, `Python` |
+| **Automação (Low-Code)** | `n8n`, `Make` |
+| **Banco de Dados & BI** | `PostgreSQL (SQL)`, `DBeaver`, `Metabase`, `Power BI` |
+| **APIs & Testes** | `Postman`, `RESTful`, `JSON` |
+| **CRM & Ops** | `Pipedrive`, `Apollo.io`, `Notion`, `Bitrix24` |
 
 ---
 
