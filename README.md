@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=JoaoPedroBittar&color=006bed)
-
 # 👋 Olá! Eu sou João Pedro Bittar
 
 🎓 Graduado em Administração de Empresas  
