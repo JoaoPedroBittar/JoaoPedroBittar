@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou João Pedro Bittar
+# 👋 Olá! Eu sou João Pedro Bittar de Freitas
 
 🎓 Graduado em Administração de Empresas  
 💻 Cursando Sistemas de Informação (4º semestre)  
