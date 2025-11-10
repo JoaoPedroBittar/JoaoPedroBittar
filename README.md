@@ -55,10 +55,16 @@ Estou sempre em busca de novos desafios para combinar conhecimentos de negócio 
 ## 💼 Experiência
 
 **Zaub Sales Technology – Estagiário de Inteligência Comercial (2024 – atualmente)**  
-- Gestão e manutenção do CRM Pipedrive  
-- Automação de processos comerciais  
-- Prospecção de leads no Apollo com segmentação  
-- Integração de sistemas e suporte ao time de vendas  
+- Prospecção de leads ideais B2B utilizando a ferramenta Apollo, com foco em segmentação inteligente e qualificação de oportunidades.
+- Gestão e atualização do CRM Pipedrive, assegurando a organização, rastreabilidade e priorização das oportunidades comerciais.
+- Criação de automações inteligentes via n8n/Make, integrando ferramentas como Pipedrive, Notion, ActiveCampaign e Bitrix24, otimizando tarefas repetitivas, processos e comunicação entre times e leads.
+- Desenvolvimento e manutenção de ambientes de teste para demonstrações técnicas, simulando a jornada do cliente e garantindo uma experiência completa durante o período de trial.
+- Participação em reuniões de integração com ERPs parceiros, auxiliando na configuração técnica dos ambientes e garantindo o correto funcionamento das integrações.
+- Suporte ao time comercial e de CS com dados estratégicos e análises voltadas à performance e qualificação de leads.
+- Experiência com testes funcionais em ambiente de homologação, contribuindo na validação de novas entregas e correções do sistema.
+- Manipulação de banco de dados PostgreSQL através do DBeaver, realizando consultas, extrações e ajustes de dados em ambiente de produção e teste.
+- Utilização do Metabase para visualização de tabelas, construção de dashboards e análise de indicadores, apoiando decisões operacionais e estratégicas.
+- Interação direta com APIs RESTful através do Postman, realizando requisições POST com dados JSON para criação e atualização de pedidos (invoices) no sistema, garantindo suporte técnico a clientes em casos de erro no aplicativo móvel.
 
 **Classic Chef – Analista de BI (2022 – 2024)**  
 - Processos de ETL e tratamento de dados  
