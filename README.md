@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou João Pedro Bittar de Freitas
 
 🎓 Graduado em Administração de Empresas  
-💻 Cursando Sistemas de Informação (4º semestre)  
+💻 Cursando Sistemas de Informação (5º semestre)  
 🚀 Estagiário de Inteligência Comercial na **Zaub Sales Technology**  
 📍 Florianópolis, SC – Brasil  
 
